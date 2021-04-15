@@ -15,6 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
+//below needed to connect to heroku
 mongoose.connect(process.env.MONGODB_URL || "mongodb://localhost/budget", {
   useNewUrlParser: true,
   useFindAndModify: false
