@@ -1,4 +1,4 @@
-# FitnessTracker
+# BudgetTrackerPWA
   Github Page: https://github.com/Glatorian13/BudgetTrackerPWA
   Live Heroku Demo: https://budget-track-a.herokuapp.com/
 # Description
