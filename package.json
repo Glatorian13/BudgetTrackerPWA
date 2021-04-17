@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Github Page: https://github.com/Glatorian13/BudgetTrackerPWA\r   Live Heroku Demo: https://budget-track-a.herokuapp.com/\r # Description\r   This is a budget tracker using a nosql database as the backend component. Simple to use, has charting functionality too.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,7 +27,7 @@
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
-    "node": "15.14.0"
+    "node": "^14.16.1"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
